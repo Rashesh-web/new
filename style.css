@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: violet;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#website a{
+    font-size: 25px;
+}
+#cartoon img{
+    margin: 50px;
+}
+
+.header_entrepreneur{
+    line-height: 2;
+    background-color: blueviolet;
+}
+.cartoon{
+    cursor: pointer;
+}
+.cartoon hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
